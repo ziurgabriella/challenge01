@@ -5,7 +5,7 @@
 
 This website for Horiseon Social Solution Services, Inc. offers details on their social media marketing, online reputation management, and search engine optimization services. The website complies with accessibility standards and has heading attributes that follow one another, semantic HTML components, a logical structure separate from styling and positioning, accessible alt attributes for image elements, and logically arranged heading attributes. Also, the title element is succinct and descriptive.
 
-## Table of Contents (Optional)
+## Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
